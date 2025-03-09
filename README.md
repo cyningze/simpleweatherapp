@@ -6,16 +6,11 @@ For specific scenarios, please refer to the video demonstration [weather.mp4](do
 
 **Features:**
 
-- Line chart page 
-<img src="doc/linechart1.png" width="250" />
-<img src="doc/linechart2.png" width="250" />
-- The chart cam be interactive with pinch-to-zoom 
-<img src="doc/linechart3.png" width="250" />
-- Table page 
-<img src="doc/table1.png" width="250" />
+- Line chart page ![linechart1.png](doc/linechart1.png) ![linechart2.png](doc/linechart2.png)
+- The chart can be interactive with pinch-to-zoom ![linechart3.png](doc/linechart3.png)
+- Table page ![table1.png](doc/table1.png)
 - Refresh and sync data by clicking top-right button
-- It could select a duration
-<img src="doc/linechart4.png" width="250" />
+- It could select a duration ![linechart4.png](doc/linechart4.png)
 - Add custom animations when switching tab between Line_chart and Table.
 
 ## How to run the app
