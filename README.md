@@ -1,6 +1,6 @@
 A simple mobile app that fetches weather data from an API and displays:
-1.A chart showing the temperature variation over time.
-2.A table listing the temperatures.
+- 1.A chart showing the temperature variation over time.
+- 2.A table listing the temperatures.
 For specific scenarios, please refer to the video demonstration [weather.mp4](doc/weather.mp4).
 
 **Features:**
