@@ -1,16 +1,18 @@
 A simple mobile app that fetches weather data from an API and displays:
 - 1.A chart showing the temperature variation over time.
 - 2.A table listing the temperatures.
+
 For specific scenarios, please refer to the video demonstration [weather.mp4](doc/weather.mp4).
 
 **Features:**
 
 - Line chart page 
-<img src="doc/linechart0.png" width="250" /><img src="doc/linechart1.png" width="250" />
+<img src="doc/linechart1.png" width="250" />
+<img src="doc/linechart2.png" width="250" />
 - The chart cam be interactive with pinch-to-zoom 
 <img src="doc/linechart3.png" width="250" />
 - Table page 
-<img src="doc/linechart2.png" width="250" />
+<img src="doc/table1.png" width="250" />
 - Refresh and sync data by clicking top-right button
 - It could select a duration
 <img src="doc/linechart4.png" width="250" />
